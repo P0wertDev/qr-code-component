@@ -29,7 +29,7 @@ I hope you like and feel free to look around and explore! 😊
 
 **Desktop**
 
-![Screenshot Desktop](./public/screenshot-dktop.png "In desktop") 
+![Screenshot Desktop](./public/screenshot-desktop.png "In desktop") 
 
 **In mobile**
 
