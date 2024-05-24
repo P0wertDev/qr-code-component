@@ -39,6 +39,10 @@ I hope you like and feel free to look around and explore! 😊
 
 ![Screenshot Mobile](./public/screenshot-tablet.png "In tablet") 
 
+**In landscape**
+
+![Screenshot Landscape](./public/screenshot-landscape.png "In landscape")
+
 ## My process
 
 ### Built with
