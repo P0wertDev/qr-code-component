@@ -11,10 +11,10 @@
 }
 
 body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    display: grid;
+    place-items: center;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 5%;
     min-height: 100dvh;
     font-family: "Outfit";
     background: var(--light-gray);
@@ -128,7 +128,7 @@ body {
 
 @media screen and (min-width: 1200px) and (max-width: 1399px) {
     #global_card {
-        width: 25%;
+        width: 30%;
     }
     
     .qr-title {
